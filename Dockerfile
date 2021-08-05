@@ -1,6 +1,6 @@
 # base image
 FROM node:alpine
-# working directory inside container
+# working dir inside container
 WORKDIR '/app'
 
 # copying package.json
